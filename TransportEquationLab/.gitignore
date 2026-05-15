@@ -1,0 +1,6 @@
+01_admission/latency_mpi
+02_execution/transport_seq
+02_execution/transport_mpi
+03_submission/results.csv
+*.out
+*.csv
